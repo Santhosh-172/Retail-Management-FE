@@ -1,0 +1,9 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logout-button {
+  display: flex;
+  justify-content: space-between;
+}

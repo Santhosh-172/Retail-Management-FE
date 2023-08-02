@@ -1,0 +1,11 @@
+.table-container {
+  font-family: Arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+
+.add-btn {
+  color: green;
+}
